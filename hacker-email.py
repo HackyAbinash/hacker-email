@@ -1,8 +1,8 @@
 # thanks to github.com/thelinuxchoice for helping
 import requests 
-print(" ╦ ╦┌─┐┌─┐┬┌─┌─┐┬─┐  ┌─┐┌┬┐┌─┐┬┬  ")
-print(" ╠═╣├─┤│  ├┴┐├┤ ├┬┘  ├┤ │││├─┤││   ")
-print(" ╩ ╩┴ ┴└─┘┴ ┴└─┘┴└─  └─┘┴ ┴┴ ┴┴┴─┘ ")
+print(" ╦ ╦┌─┐┌─┐┬┌─┌─┐┬─┐  ┌─┐┌┬┐┌─┐┬┬")
+print(" ╠═╣├─┤│  ├┴┐├┤ ├┬┘  ├┤ │││├─┤││")
+print(" ╩ ╩┴ ┴└─┘┴ ┴└─┘┴└─  └─┘┴ ┴┴ ┴┴┴─")
                               
 
 print(" \nAnonymous Email by anonymouse.org ")
