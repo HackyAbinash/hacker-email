@@ -3,8 +3,6 @@ import requests
 print(" ╦ ╦┌─┐┌─┐┬┌─┌─┐┬─┐  ┌─┐┌┬┐┌─┐┬┬")
 print(" ╠═╣├─┤│  ├┴┐├┤ ├┬┘  ├┤ │││├─┤││")
 print(" ╩ ╩┴ ┴└─┘┴ ┴└─┘┴└─  └─┘┴ ┴┴ ┴┴┴─")
-                              
-
 print(" \nAnonymous Email by anonymouse.org ")
 print("Coded by \033[91m github.com/HackyAbinash \033[0m \n ")
 to = input("To: ")
