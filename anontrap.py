@@ -1,5 +1,5 @@
 # thanks to github.com/thelinuxchoice for helping 
-
+import requests
 print(" \nAnonymous Email by anonymouse.org ")
 print("Coded by \033[91m github.com/HackyAbinash \033[0m \n ")
 to = input("To: ")
