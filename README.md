@@ -6,7 +6,7 @@ You can use it on termux app for android by typing
 
 pkg install git && pkg install python 
 
-git clone https://github.com/Sanif007/hacker-email 
+git clone https://github.com/HackyAbinash/hacker-email 
 
 cd hacker-email
 
